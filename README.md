@@ -10,6 +10,7 @@ Later, this website will have sections like the following.
 
 ## How We Work Together
 
+- [Organizational Article 1 - DRAFT](https://docs.google.com/document/d/1pqZOb-W3KZgMoWmWIIaLHkvAnZ5b6_OtB8qnRzFovCQ/edit?usp=sharing)
 - [[Zoom Meetings]]
 
 ## Topics and Key Phrases from Our Conversations
