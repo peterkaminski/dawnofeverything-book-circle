@@ -4,5 +4,6 @@ The regular Zoom link is <https://us02web.zoom.us/j/85144852360?pwd=enNuVXQxcGd3
 
 ## Formation / Onboarding
 
+- [[Dawn of Everything Book Circle, 2022-03-30]]
 - [[Dawn of Everything Book Circle, 2022-03-25]]
 
