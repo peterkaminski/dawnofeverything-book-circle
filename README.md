@@ -17,18 +17,12 @@ Later, this website will have sections like the following.
 - [[Zoom Meetings]]
 - [[About This Wiki Website]]
 
-## Chapters
-
-see [[Chapters]]
-
-## Topics and Key Phrases from Our Conversations
-
-## Big Questions
-
-## Lenses
-
-## Books
-
+## Contents (some pages not yet created)
 - [[The Dawn of Everything]]
+- [[Chapters]] _(of The Dawn of Everything)_
+- Topics and Key Phrases from Our Conversations
+- Big Questions
+- Lenses
+- Other Books
+- [[Key People]]
 
-## People

@@ -1,0 +1,5 @@
+# Jared Diamond
+
+> Jared Mason Diamond (born September 10, 1937) is an American geographer, historian, ornithologist, and author best known for his popular science books The Third Chimpanzee (1991); Guns, Germs, and Steel (1997, awarded a Pulitzer Prize); Collapse (2005), The World Until Yesterday (2012), and Upheaval (2019). Originally trained in biochemistry and physiology, Diamond is known for drawing from a variety of fields, including anthropology, ecology, geography, and evolutionary biology. He is a professor of geography at UCLA.In 2005, Diamond was ranked ninth on a poll by Prospect and Foreign Policy of the world's top 100 public intellectuals.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Jared%20Diamond)
