@@ -1,4 +1,5 @@
-# Underlined sections and passages
+# Underlined sections and passages - WLA
+(Bill Anderson's selected excerpts)
 
 
 ### Chapter 1 Farewell to Humanity's Childhood
@@ -30,4 +31,27 @@ Page 50:
 
 Page 51:
 
-> In conclusion, he swings back
+> In conclusion, he swings back to his original observation: the whole apparatus of trying to force people to behave well would be unnecessary if France did not also maintain a contrary apparatus that encourages people to behave badly. That apparatus consisted of money, propery rights and the resultant pursuit of material self-interest.
+
+Pages 60-61:
+
+> (A.R.J.) Turgot ... had been arguing ... for the primacy of technological progress as a driver for overall social improvement. ... he developed this argument into an explicit theory of stages of economic development: social evolution, he reasoned, always begins with hunters, then moves on to a stage of pastoralism, then farming, and only then finally passes to the contemporary stage of urban commercial civilization.
+  
+> In this way, theories of social evolution -- now so familiar that we rarely dwell on their origins -- first came to be articulated in Europe as a direct response to the power of indigeneous critique.
+
+> ... most indigeneous Americans saw individual autonomy and freedom of action as consummate values -- organizing their own lives in such a way as to minimize any possibility of one human being becoming subordinated to the will of another ....
+
+Page 62:
+
+> Turgot's case reveals just how much those particular notions of civilization, evolution and progress -- which we've come to think of as the very core of Enlightenment thought -- are, in fact, relative latecomers to that critical tradtion.
+
+Pages 66-67:
+
+> ... the constant indigeneous exclamations of dismay to be found in those books: that Europeans just don't seem to care about each other; that they are 'neither generous nor kind'.
+  
+> In the  (indigeneous) American view, the freedom of the individual was assumed to be premised on a certain level of 'baseline communism', since, after all, people who are starving or lack adequate clothes or shelter in a snowstorm are not really free to do much of anything, other than whatever it takes to stay alive.
+
+> The European conception of individual freedom was, by contrast, tied ineluctably to notions of private property. ... What's more, there was strong emphasis in ancient Roman (and modern European) law on the self-sufficiency of households; hence, true freedom meant autonomy in the radical sense, not just autonomy of the will, but being in no way dependent on other human beings (except those under one's direct control).
+
+> Rousseau ... insisted, any ongoing human relationship, even one of mutual aid, is itself a restraint on liberty.
+
