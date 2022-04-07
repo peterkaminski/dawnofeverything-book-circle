@@ -1,6 +1,6 @@
 # Schedule
 
-Refer to [DoE Book Circle Schedule](https://doe.bookcircle.academy/schedule) page for details. (Maybe you're already on this page. :-)
+Refer to [DoE Book Circle Schedule](https://doe.bookcircle.academy/schedule) page for details for each month. (Maybe you're already on this page. :-)
 
 - Two chapters of the book per month.
 - Two sets of calls each month, during the second full week and fourth full week.

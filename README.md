@@ -6,7 +6,7 @@ Consider using [Hypothesis]() to add comments or suggested edits to this website
 
 This website is collectively authored by the group, and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) (CC-BY 4.0), with the disclaimer that the views and opinions expressed herein are part of an unfinished, informal conversation, and that they do not necessarily reflect consensus nor the opinions or beliefs of any particular person in the group.
 
-We are currently assembling, starting with writing and improving our [Organizational Article 1](https://docs.google.com/document/d/1pqZOb-W3KZgMoWmWIIaLHkvAnZ5b6_OtB8qnRzFovCQ/edit?usp=sharing). Please see that document for more information.
+Our [Organizational Article 1](https://docs.google.com/document/d/1pqZOb-W3KZgMoWmWIIaLHkvAnZ5b6_OtB8qnRzFovCQ/edit?usp=sharing) (now being finalized) sets the ground rules. Please see that document for more information. There is a survey for when during the week we might have our meetings, covering two chapters a month. See the [[Schedule]] for more detail.
 
 Later, this website will have sections like the following.
 
@@ -14,7 +14,8 @@ Later, this website will have sections like the following.
 
 - [Organizational Article 1 - DRAFT](https://docs.google.com/document/d/1pqZOb-W3KZgMoWmWIIaLHkvAnZ5b6_OtB8qnRzFovCQ/edit?usp=sharing)
 - [Dawn of Everything chat channel](https://chat.collectivesensecommons.org/agora/channels/dawn-of-everything)
-- [[Zoom Meetings]]
+- [[Schedule]]
+- [[Zoom Meetings]] (recordings, transcripts, chat)
 - [[About This Wiki Website]]
 
 ## Contents (some pages not yet created)
