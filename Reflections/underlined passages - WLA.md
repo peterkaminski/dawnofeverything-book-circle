@@ -27,7 +27,7 @@ Page 23:
 
 Page 50:
 
-> ... a chapter on the subject of law, where Kandiaronk takes the position that European-style punitive law, like the religious doctrine of eternal damnation, in not necessitated by any inherent corruption of human nature, but rather by a form of social organization that encourage selfish and acquisitive behaviour.
+> ... a chapter on the subject of law, where Kandiaronk takes the position that European-style punitive law, like the religious doctrine of eternal damnation, is not necessitated by any inherent corruption of human nature, but rather by a form of social organization that encourages selfish and acquisitive behaviour.
 
 Page 51:
 
@@ -54,4 +54,8 @@ Pages 66-67:
 > The European conception of individual freedom was, by contrast, tied ineluctably to notions of private property. ... What's more, there was strong emphasis in ancient Roman (and modern European) law on the self-sufficiency of households; hence, true freedom meant autonomy in the radical sense, not just autonomy of the will, but being in no way dependent on other human beings (except those under one's direct control).
 
 > Rousseau ... insisted, any ongoing human relationship, even one of mutual aid, is itself a restraint on liberty.
+
+Page 73:
+
+> What if the sort of people we like to imagine as simple and innocent are free of rulers, governments, bureaucracies, ruling classes and the like, not because they are lacking in imagination, but because they're actually *more* imaginative than we are?
 

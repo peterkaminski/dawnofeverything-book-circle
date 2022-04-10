@@ -7,3 +7,8 @@ The regular Zoom link is <https://us02web.zoom.us/j/85144852360?pwd=enNuVXQxcGd3
 - [[Dawn of Everything Book Circle, 2022-03-30]]
 - [[Dawn of Everything Book Circle, 2022-03-25]]
 
+## Chapter 1
+
+- [[Ch. 1 - Dawn of Everything Book Circle (Chapter 1 meeting 1 of 2)]]
+- [[Ch. 1 - Dawn of Everything Book Circle (Chapter 1 meeting 2 of 2)]]
+
