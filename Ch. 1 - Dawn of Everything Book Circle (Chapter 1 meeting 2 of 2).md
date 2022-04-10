@@ -34,4 +34,6 @@ Passcode: 464101
 
 ## Notes From This Meeting
 
-*write here, right now*
+edit this page on Google Docs before and during the meeting:
+
+[Ch. 1 - Dawn of Everything Book Circle (Chapter 1 meeting #2 of 2)](https://docs.google.com/document/d/1BhNWWAKRMvO5H_iGad1Q-9WWLE2J0uo4pyJwfi70NR8/edit?usp=sharing)
