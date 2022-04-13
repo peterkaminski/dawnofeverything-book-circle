@@ -1,9 +1,13 @@
 # Underlined sections and passages - WLA
-(Bill Anderson's selected excerpts)
+(Bill Anderson's selected underlinings)
 
 
 ### Chapter 1 Farewell to Humanity's Childhood
-  Or why this is not a book about the origins of inequality
+  *Or why this is not a book about the origins of inequality*
+
+Page 9:
+
+> Framing human history in this way -- which necessarily means assuming humanity once existed in an idyllic state, and that a specific point can be identified at which everything started to go wrong -- made it almost impossible to ask any of the questions we felt were genuinely interesting.
 
 Page 21:
 
@@ -23,7 +27,7 @@ Page 23:
 > But we often find such regional networks developing largely for the sake of creating friendly mutual relations, or having an excuse to visit one another from time to time.
 
 ### Chapter 2 Wicked Liberty
-  The indigenous critique and the myth of progress
+  *The indigenous critique and the myth of progress*
 
 Page 50:
 
@@ -58,4 +62,18 @@ Pages 66-67:
 Page 73:
 
 > What if the sort of people we like to imagine as simple and innocent are free of rulers, governments, bureaucracies, ruling classes and the like, not because they are lacking in imagination, but because they're actually *more* imaginative than we are?
+
+
+### Chapter 3 Unfreezing the Ice Age
+  *In and out of chains: the protean possibilities of human politics*
+
+Page 86:
+
+> ... (Christopher Boehm) argues that while humans do have an instinctual tendency to engage in dominance-submissive behavior, no doubt inherited from our simian ancestors, what makes societies distinctively human is our ability to make the conscious decision *not* to act that way.
+
+> This, he concludes, is the essence of politics: the ability to reflect consciously on different directions one's society could take, and to make explicit arguments why it should take one path rather than another. In this sense, once could say Aristotle was right when he described human beings as 'political animaals' -- since this is precisely what other primates never do, at least not to our knowledge.
+
+Pages 118-119:
+
+> Let us bid farewell to the 'childhood of Man' and acknowledge (as Levi-Strauss insisted) that our early ancestors were not just our cognitive equals, but our intellectual peers too. ... They were, as Helena Valero said of the Yanomami, just people, like us; equally perceptive, equally confused.
 
