@@ -13,9 +13,9 @@ Later, this website will have sections like the following.
 ## How We Work Together
 
 - [Organizational Article 1 - DRAFT](https://docs.google.com/document/d/1pqZOb-W3KZgMoWmWIIaLHkvAnZ5b6_OtB8qnRzFovCQ/edit?usp=sharing)
-- [Dawn of Everything chat channel](https://chat.collectivesensecommons.org/agora/channels/dawn-of-everything)
+- [[Dawn of Everything chat channel]]
 - [[Schedule]]
-- [[Zoom Meetings]] (recordings, transcripts, chat)
+- [[Meetings]] (recordings, transcripts, chat)
 - [[About This Wiki Website]]
 
 ## Contents (some pages not yet created)

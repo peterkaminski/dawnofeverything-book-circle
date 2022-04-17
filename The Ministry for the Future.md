@@ -1,0 +1,7 @@
+# The Ministry for the Future
+
+> **The Ministry for the Future** is a cli-fi novel by American science fiction writer Kim Stanley Robinson published in 2020. Set in the near future, the novel follows a subsidiary body, established under the Paris Agreement, whose mission is to advocate for the world's future generations of citizens as if their rights are as valid as the present generation's. While they pursue various ambitious projects, the effects of climate change are determined to be the most consequential. The plot primarily follows Mary Murphy, the head of the titular Ministry for the Future, and Frank May, an American aid worker traumatized by experiencing a deadly heat wave in India. Many chapters are devoted to other (mostly anonymous) characters' accounts of future events, as well as their ideas about ecology, economics, and other subjects.
+>
+> With its emphasis on scientific accuracy and non-fiction descriptions of history and social science, the novel is classified as hard science fiction. It is also a part of the growing body of climate fiction. Robinson had previously written other climate fiction novels, such as 2312 and New York 2140. The Ministry for the Future also includes elements of utopian fiction, as it portrays society addressing a problem, and elements of horror fiction, as climate change threatens characters.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Ministry%20for%20the%20Future)
