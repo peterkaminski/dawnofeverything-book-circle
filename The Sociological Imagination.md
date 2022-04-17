@@ -1,0 +1,9 @@
+# The Sociological Imagination
+
+> **The Sociological Imagination** is a 1959 book by American sociologist C. Wright Mills published by Oxford University Press.  In it, he develops the idea of sociological imagination, the means by which the relation between self and society can be understood.Mills felt that the central task for sociology and sociologists was to find (and articulate) the connections between the particular social environments of individuals (also known as "milieu") and the wider social and historical forces in which they are enmeshed. The approach challenges a structural functionalist approach to sociology, as it opens new positions for the individual to inhabit with regard to the larger social structure. Individual function that reproduces larger social structure is only one of many possible roles and is not necessarily the most important. Mills also wrote of the danger of malaise (apathy), which he saw as inextricably embedded in the creation and maintenance of modern societies. This led him to question whether individuals exist in modern societies in the sense that "individual" is commonly understood (Mills, 1959, 7–12).
+>
+> In writing The Sociological Imagination, Mills tried to reconcile two varying, abstract conceptions of social reality, the "individual" and the "society", and thereby challenged the dominant sociological discourse to define some of its most basic terms and be forthright about the premises behind its definitions. He began the project of reconciliation and challenge with critiques of "grand theory" and "abstracted empiricism", outlining and criticizing their use in the current sociology of the day.
+>
+> In 1998 the International Sociological Association listed the work as the second most important sociological book of the 20th century.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Sociological%20Imagination)

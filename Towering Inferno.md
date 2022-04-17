@@ -1,0 +1,5 @@
+# Towering Inferno
+
+> The **Towering Inferno** is a 1974 American disaster film directed by John Guillermin and produced by Irwin Allen, featuring an ensemble cast led by Paul Newman and Steve McQueen. The film is a co-production between 20th Century-Fox and Warner Bros., and thus the first film to be a joint venture by two major Hollywood studios. It was adapted by Stirling Silliphant from the novels The Tower (1973) by Richard Martin Stern and The Glass Inferno (1974) by Thomas N. Scortia and Frank M. Robinson.The film earned a nomination for the Academy Award for Best Picture and was the highest-grossing film of 1974. The picture was nominated for eight Oscars in all, winning three. In addition to McQueen and Newman, the cast includes William Holden, Faye Dunaway, Fred Astaire, Susan Blakely, Richard Chamberlain, O. J. Simpson, Robert Vaughn, Robert Wagner, Susan Flannery, Gregory Sierra, Dabney Coleman, and Jennifer Jones in her final role.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Towering%20Inferno)
