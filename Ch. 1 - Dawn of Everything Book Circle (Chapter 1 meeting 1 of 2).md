@@ -155,6 +155,27 @@ Running of experiments of social organization: is it still happening? (Probably 
 
 [[Dialogue: Rediscover the Transforming Power of Conversation]] book by Linda Ellinor and Glenna Gerrard
 
+## Questions articulated by the authors at the end of chapter one
+
+- We will start by asking how did inequality become such an issue to 
+begin with?
+- If we didn’t spend 95% of our evolutionary past in tiny bands of 
+hunter-gatherers what were they doing all that time?
+- If agriculture and cities didn’t mean a plunge into hierarchy and 
+domination, then what did they imply?
+- What was really happening in those periods we usually see as marking 
+the emergence of the state?
+- The answers are often unexpected and suggest that the course of human 
+history may be less set in stone and more full of playful possibilities 
+than we tend to assume.
+- This book is a quest to discover the right questions. If, “What is the 
+origin of inequality?" is not the biggest question we should be asking 
+about history, then what should it be?
+- Rousseau was correct that something was lost, he just had an 
+idiosyncratic and false notion of what it was. How do we characterize 
+it then? And how lost is it really? What does it imply about 
+possibilities for social change today? 
+
 ## Intentions (or Intentions to Intend)
 
 -   ask [[David Wengrow]] to visit our group (Ken loves this idea!)
