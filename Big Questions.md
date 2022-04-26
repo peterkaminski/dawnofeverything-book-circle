@@ -1,5 +1,7 @@
 # Big Questions
 
+_Note: this page can currently be edited [as a HackMD document](https://hackmd.io/@peterkaminski/SyRoz3rrc)._
+
 One of the things we love about **Dawn of Everything** is that it raises "big questions", both in the book, and in us as we read and discuss.
 
 This page collects the "big questions" we've come across.
