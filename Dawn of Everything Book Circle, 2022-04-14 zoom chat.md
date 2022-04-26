@@ -48,7 +48,11 @@ The Carrier Bag Theory of Fiction
 01:17:26	Stacey Druss:	Just want to point out how many would initially resist the notion that there was any value in ritual at all
 01:18:46	Jordan Nicholas Sukut:	Yes Stacey - great point
 01:21:40	Eric Rangell:	Is there a recording of the discussion about the Meta project?
-01:24:52	Stacey Druss:	This made me think of the Meta Project We are living in what the Greeks called the καιρóς(Kairos) – the right time – for a “metamorphosis of the gods,” i.e. ofthe fundamental principles and symbols.’C. G. Jung, The Undiscovered Self (1958)
+01:24:52	Stacey Druss:	This made me think of the Meta Project We are living in what the Greeks called the καιρóς
+(Kairos) – the right time – for a “metamorphosis of the gods,” i.e. of
+the fundamental principles and symbols.’
+
+C. G. Jung, The Undiscovered Self (1958)
 01:25:22	Jordan Nicholas Sukut:	Yes - quite appropriate isn’t it! It is the time…
 01:25:23	Stacey Druss:	Meant to fix punctuation before I hit send :)
 01:25:27	Bill:	My name for today is “woo woo”

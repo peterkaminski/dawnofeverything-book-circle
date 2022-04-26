@@ -77,3 +77,14 @@ Pages 118-119:
 
 > Let us bid farewell to the 'childhood of Man' and acknowledge (as Levi-Strauss insisted) that our early ancestors were not just our cognitive equals, but our intellectual peers too. ... They were, as Helena Valero said of the Yanomami, just people, like us; equally perceptive, equally confused.
 
+### Chapter 4 Free People, the Origin of Cultures, and the Advent of Private Property
+  *(Not necessarily in that order)*
+
+Page 159:
+
+> To recognize the close parallels between private property and notions of the sacred is also to recognize what is so historically odd about European social thought. Which is that -- quite unlike free societies -- we take this absolute, sacred quality in private property as a paradigm for *all* human rights and freedoms. This is what the political scientist C.B. Macpherson meant by 'possessive individualism'.
+
+Page 160:
+
+> ... what the anthropologist Robert Lowie termed 'sacra' when he pointed out long ago that many of the most important forms of indigenous property were immaterial or incorporeal: magic formulae, stories, medical knowledge, the right to perform a certain dance, or stitch a certain pattern on one's mantle.
+
