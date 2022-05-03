@@ -8,6 +8,7 @@ Refer to [DoE Book Circle Schedule](https://doe.bookcircle.academy/schedule) pag
 	- Fourth-week calls are even chapters.
 - Two calls for each book chapter, at different times/days, to maximize accessibility to at least one call for everyone. It's expected that most people will only attend one call per set, and we'll cross-coordinate with a few bridge people or via chat.
 - Currently, Tuesday calls are at 8pm UTC, and Thursday calls are at 6pm UTC, although the times may shift seasonally. Check the [[Dawn of Everything chat channel]] a few days before the call to confirm -- Pete will post the time and timezone conversion links, and notes / agenda links there.
+	- If you need them, timezone conversion sites: [timeanddate.com](https://www.timeanddate.com/), [World Time Buddy](https://www.worldtimebuddy.com/)
 - Each call 90 minutes long.
 
 ## April 2022
