@@ -29,6 +29,12 @@ Page 23:
 ### Chapter 2 Wicked Liberty
   *The indigenous critique and the myth of progress*
 
+Page 47:
+
+> ... at first neither -- not the colonists of New France, or their indigenous interlocutors -- had much to say about 'equality.' Rather, the argument was about liberty and mutual aid, or what might even be better called freedom and communism.
+
+> ... There's a certain minimal, 'baseline' communism which applies to all societies; a feeling that if another person's needs are great enough ..., and the cost of meeting them is modest enough ..., then any decent person would comply. Baseline communism of this sort could even be considered the very grounds of human sociability, since it is only one's bitter enemies who would not be treated this way.
+
 Page 50:
 
 > ... a chapter on the subject of law, where Kandiaronk takes the position that European-style punitive law, like the religious doctrine of eternal damnation, is not necessitated by any inherent corruption of human nature, but rather by a form of social organization that encourages selfish and acquisitive behaviour.
