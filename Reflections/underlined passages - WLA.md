@@ -73,11 +73,19 @@ Page 73:
 ### Chapter 3 Unfreezing the Ice Age
   *In and out of chains: the protean possibilities of human politics*
 
+Page 81:
+
+> Perhaps the only thing we can say with real certainty is that, in terms of ancestry, we are all Africans.
+
 Page 86:
 
 > ... (Christopher Boehm) argues that while humans do have an instinctual tendency to engage in dominance-submissive behavior, no doubt inherited from our simian ancestors, what makes societies distinctively human is our ability to make the conscious decision *not* to act that way.
 
 > This, he concludes, is the essence of politics: the ability to reflect consciously on different directions one's society could take, and to make explicit arguments why it should take one path rather than another. In this sense, once could say Aristotle was right when he described human beings as 'political animaals' -- since this is precisely what other primates never do, at least not to our knowledge.
+
+Page 111:
+
+> ... it's worth pointing out .... the much deeper sillinessof the initial assumption: that societies must necessarily progress through a series of evolutionary stages to begin with. You can't speak of an evolution from band to tribe to chiefdom to state if your starting points are groups that move fluidly between them as a matter of habit.
 
 Pages 118-119:
 
@@ -85,6 +93,18 @@ Pages 118-119:
 
 ### Chapter 4 Free People, the Origin of Cultures, and the Advent of Private Property
   *(Not necessarily in that order)*
+
+Page 126:
+
+> So, as a first approximation, we can speak of an eglitarian society if (1) most people in a given society feel they really ought to be the same in some specific way, or ways, that are agreed to be particularly important; and (2) that ideal can be said to be largely achieved in practice.
+
+Page 139 (Sahlins is Marshall Sahlins, author of 'The Original Affluent Society'):
+
+> It's not that Sahlins is suggesting that his own phrase 'original affluent society' is incorrect. Rather, he acknowledges that, just as there might have been many ways for free people to be free, there might have been more than just one way for (original) affluent societies to be affluent.
+
+Page 143:
+
+> If anything was being stockpiled at Poverty Point, it may well have been knowledge: the intellectual propperty of rituals, vision quests, songs, dances and images.
 
 Page 159:
 

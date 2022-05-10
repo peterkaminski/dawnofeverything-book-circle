@@ -9,6 +9,11 @@ You can find meeting recordings for each meeting linked from the pages below.  T
 - [[Ch. 1 - Dawn of Everything Book Circle (Chapter 1 meeting 1 of 2)]] (Tuesday, 2022-04-12)
 - [[Ch. 1 - Dawn of Everything Book Circle (Chapter 1 meeting 2 of 2)]] (Thursday, 2022-04-14)
 
+## Chapter 2
+
+- [[Ch. 2 - Dawn of Everything Book Circle (Chapter 2 meeting 1 of 2)]] (Tuesday, 2022-04-26)
+- [[Ch. 2 - Dawn of Everything Book Circle (Chapter 2 meeting 2 of 2)]] (Thursday, 2022-04-28)
+
 ## Formation / Onboarding
 
 - [[Dawn of Everything Book Circle, 2022-03-30]]
