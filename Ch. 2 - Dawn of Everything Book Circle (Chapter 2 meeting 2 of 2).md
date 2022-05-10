@@ -3,8 +3,8 @@
 ## Artifacts
 
 - video recordings:
-	- [Dawn of Everything Book Circle, 2022-04-28 (speaker+screenshare)]() (YouTube)
-	- [Dawn of Everything Book Circle, 2022-04-28 (gallery)]() (YouTube)
+	- [Dawn of Everything Book Circle, 2022-04-28 (speaker+screenshare)](https://www.youtube.com/watch?v=Ztwe3i3ZIvc) (YouTube)
+	- [Dawn of Everything Book Circle, 2022-04-28 (gallery)](https://www.youtube.com/watch?v=rZo5Move11w) (YouTube)
 - [[Dawn of Everything Book Circle, 2022-04-28 uncorrected machine transcription.cc.vtt]]
 - [[Dawn of Everything Book Circle, 2022-04-28 zoom chat]]
 
